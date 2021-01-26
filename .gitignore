@@ -3,5 +3,8 @@ frontend/node_modules/
 
 db.sqlite3
 
-__pycache__/
+djangoreactproject/__pycache__/
+
+customers/__pycache__/
+customers/migrations/__pycache__/
 
